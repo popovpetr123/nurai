@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Каталог</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>Каталог</h1>
+    <nav>
+        <a href="index.html">Главная</a>
+        <a href="catalog.html">Каталог</a>
+    </nav>
+</header>
+
+<section>
+    <h2>Товары</h2>
+
+    <div class="card">
+        <h3>Товар 1</h3>
+        <p>Описание</p>
+    </div>
+
+    <div class="card">
+        <h3>Товар 2</h3>
+        <p>Описание</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026</p>
+</footer>
+
+</body>
+</html>

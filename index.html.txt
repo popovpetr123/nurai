@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Товары и услуги</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>ООО "Товары и услуги"</h1>
+    <nav>
+        <a href="index.html">Главная</a>
+        <a href="catalog.html">Каталог</a>
+    </nav>
+</header>
+
+<section>
+    <h2>Добро пожаловать</h2>
+    <p>Мы предоставляем качественные товары и услуги</p>
+</section>
+
+<section>
+    <h2>Наши услуги</h2>
+    <div class="card">Услуга 1</div>
+    <div class="card">Услуга 2</div>
+    <div class="card">Услуга 3</div>
+</section>
+
+<footer>
+    <p>© 2026</p>
+</footer>
+
+</body>
+</html>
